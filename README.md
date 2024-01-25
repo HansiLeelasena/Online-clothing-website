@@ -6,10 +6,10 @@ Simple web design for an online shopping experience that customer sees the detai
 
 <img src="https://github.com/uddhikaku/VehicleCrashDetectionSystem/blob/main/diagram.jpg" width="50%" />
 
+<img src="https://github.com/uddhikaku/VehicleCrashDetectionSystem/blob/main/diagram.jpg" width="50%" />
+
+<img src="https://github.com/uddhikaku/VehicleCrashDetectionSystem/blob/main/diagram.jpg" width="50%" />
+
 ---
 
-
-# Arduino Code
-
----
 
